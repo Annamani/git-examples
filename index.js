@@ -1,1 +1,1 @@
-console.log("Welcome");
+console.log("Welcome to Hack Your Future");
